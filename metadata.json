@@ -1,0 +1,6 @@
+{
+  "name": "KIRAX Terminal — XAU/USD Quant Intelligence",
+  "description": "Terminal Institucional de Análisis Cuantitativo y Microestructura de Mercado de Oro (XAU/USD) con IA Gemini, Semáforo 3D y Academia de Formación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
